@@ -74,8 +74,10 @@ This app is lightweight, offline-ready, and built to give total control of your 
 
 ## 🗂 Screenshots
 
-![Dashboard]
-[screenshots/IMG_20260228_094532.jpg]
+## 📱 App Screenshots
+
+![Home Screen1](screenshots/home1.png)
+![Home Screen](screenshots/IMG_20260228_094532.jpg)
 
 ---
 
