@@ -1,0 +1,26 @@
+name: Bug Report
+description: Report a bug
+title: "[BUG]: "
+labels: ["bug"]
+body:
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      placeholder: Android 14 / Flutter 3.19
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Bug Description
+      description: Describe the issue clearly
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: List reproduction steps
