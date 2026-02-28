@@ -74,7 +74,8 @@ This app is lightweight, offline-ready, and built to give total control of your 
 
 ## 🗂 Screenshots
 
-*(Place screenshots here for Home, Dashboard, Add Book, Book Details, Settings, Backup/Restore)*
+*Dashboard*
+https://github.com/nazmuzChakib/PageTurn_Personal_Library/blob/master/screenshots/IMG_20260228_094532.jpg
 
 ---
 
