@@ -78,11 +78,11 @@ This app is lightweight, offline-ready, and built to give total control of your 
 
 ![Dashboard](screenshots/IMG_20260228_094532.jpg)
 
-![Home] (screenshots/IMG_20260228_094516.jpg)
+![Home](screenshots/IMG_20260228_094516.jpg)
 
-![Menu's] (screenshots/IMG_20260228_094459.jpg)
+![Menu's](screenshots/IMG_20260228_094459.jpg)
 
-![Book Details] (screenshots/IMG_20260228_094441.jpg)
+![Book Details](screenshots/IMG_20260228_094441.jpg)
 
 ---
 
