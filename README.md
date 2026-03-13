@@ -114,7 +114,7 @@ Whether it’s new features, bug fixes, UI improvements, or translations — fee
 ## ❤️ Support
 
 If you enjoy using **PPL Book Tracker**, give this repository a ⭐️ on GitHub!
-Your support helps us build even better features for this community-driven app. ([GitHub][1])
+Your support helps us build even better features for this community-driven app.
 
 ---
 
